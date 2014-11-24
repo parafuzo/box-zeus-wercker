@@ -1,6 +1,6 @@
 name: parafuzo-zeus
 version: 0.0.2
-inherits: fliplingo/ubuntu12.04-ruby2.1.0@0.0.1
+inherits: inwy/ubuntu12.04-ruby2.1.2@0.1.0
 type: main
 platform: ubuntu@12.04
 description: Box for Wercker to build packages of Parafuzo Zeus app.
